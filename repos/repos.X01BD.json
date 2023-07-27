@@ -14,7 +14,7 @@
         "branch": "gcc-master",
         "name": "gcc",
         "binPath": ["./aarch64-linux-android-4.9/bin", "llvm/bin"]
-      }lineage-19.1
+      }
     ],
     "params": {
       "ARCH": "arm64",
