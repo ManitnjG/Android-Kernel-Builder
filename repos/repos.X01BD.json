@@ -15,7 +15,7 @@
         "name": "proton-clang",
         "binPath": ["./bin"]
     ]
-    ]    
+]    
     "params": {
       "ARCH": "arm64",
       "CC": "google/llvm/bin/clang",
